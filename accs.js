@@ -44,7 +44,7 @@ button.onclick = function()
 {
 var rand = Math.floor(Math.random()*(qLength));
 var quote = arr[rand];
-document.getElementById("quote").innerHTML= quote ;
+document.getElementById("quote-2").innerHTML= quote ;
 };
 
 
