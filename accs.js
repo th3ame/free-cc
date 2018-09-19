@@ -23,11 +23,11 @@ document.getElementById("quote-2").innerHTML= quote ;
 };
 
 
-};
+
 
 //minecraft
 {
-  var arr = ["https://bit.ly/2kvpUwf",
+  var arr2 = ["https://bit.ly/2kvpUwf",
               "https://bit.ly/2xC8lnI" ,
               "https://bit.ly/2ku99Bs",
               "https://bit.ly/2GXc8vn" ,
