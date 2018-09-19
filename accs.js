@@ -49,6 +49,3 @@ var quote = arr[rand];
 document.getElementById("quote").innerHTML= quote ;
 };
 
-
-};
-
