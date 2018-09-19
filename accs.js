@@ -1,4 +1,6 @@
 //minecraft
+//netflix
+
 window.onload = function()
 {
   var arr = ["https://bit.ly/2kvpUwf",
@@ -24,7 +26,6 @@ document.getElementById("quote").innerHTML= quote ;
 
 
   
-//netflix
   var arr2 = ["test",
               "test2" ,
               "test3",
