@@ -1,5 +1,5 @@
 //netflix
-window.onload = function()
+window.addEventListener = function()
 {
   var arr = ["test",
               "test2" ,
@@ -26,7 +26,7 @@ document.getElementById("quote-2").innerHTML= quote ;
 };
 
 //minecraft
-window.onload = function()
+window.addEventListener = function()
 {
   var arr = ["https://bit.ly/2kvpUwf",
               "https://bit.ly/2xC8lnI" ,
